@@ -15,12 +15,11 @@ Installation: copy and run the code in Jupyter Notebooks or other Python editor 
 
 Example of results:
 
-![CHICAGO_PUBLIC_SCHOOLS_DATA Columns names and types](https://github.com/natvnu/SQL-for-Data-Science/blob/main/table%20columns.png?raw=true
-)
+![Tag_objects](Tag_objects.png)
 
-![Colege enrollment per community area](https://github.com/natvnu/SQL-for-Data-Science/blob/main/enrollment.png?raw=true)
+![Most Densely Populated Countries - Scraping tables to df using loop](Most_densely_populated_countries_scraping_tables_to_df_using_loop.png)
 
-![Hardship index for the community area which has the highest value for college enrollment](https://github.com/natvnu/SQL-for-Data-Science/blob/main/Hardship%20index.png?raw=true)
+![Most Densely Populated Countries - Scraping tables to df using directly from url using read_html and bs4](Most_densly_populated_countries_scrape_tables_to_df_directly_from_url_using_read_html_and_bs4.png)
 
 
 
