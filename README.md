@@ -21,6 +21,9 @@ Example of results:
 ![Most Densely Populated Countries - Scraping tables to df using loop](Most_densely_populated_countries_scraping_tables_to_df_using_loop.png)
 
 
+
+
+
 ![Most Densely Populated Countries - Scraping tables to df using directly from url using read_html and bs4](Most_densly_populated_countries_scrape_tables_to_df_directly_from_url_using_read_html_and_bs4.png)
 
 
